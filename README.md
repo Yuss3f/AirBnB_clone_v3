@@ -1,5 +1,5 @@
 # AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+The console represents the initial phase of the AirBnB project at Alx Africa Program, which will comprehensively cover essential concepts of higher-level programming. The ultimate aim of the AirBnB project is to deploy our server as a basic replica of the AirBnB website (HBnB). In this phase, a command interpreter is developed to manage objects for the AirBnB (HBnB) website.
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -156,6 +156,8 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Youssef KAYK - [Github](https://github.com/Yuss3f) / [Twitter](https://twitter.com/YoussefKayk)
+Houssam Badrane - [Github](https://github.com/Islanders94) / [Linkedin](https://linkedin.com/in/houssam-badrane-7a52a2142/)
 
 Second part of Airbnb: Joann Vuong
 ## License
